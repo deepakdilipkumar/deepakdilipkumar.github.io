@@ -13,6 +13,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-You can reach me at deepakdilipkumar1 [at] gmail [dot] com
+You can reach me at deepakdilipkumar1 [at] gmail [dot] com, or at any of the links below.
 
 <!-- [deepakdilipkumar.iitb@gmail.com](mailto:deepakdilipkumar.iitb@gmail.com) -->
