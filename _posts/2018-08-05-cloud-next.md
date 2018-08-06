@@ -3,7 +3,7 @@ layout: post
 title: AI at Google Cloud Next '18
 ---
 
-Last week, from June 24th - 26th, Google held its Google Cloud Next ‘18 conference at the Moscone Center in San Francisco. It was Google’s biggest event ever, with 25000 people(!) attending. 
+Last week, from June 24th - 26th, Google held its Google Cloud Next ‘18 conference at the Moscone Center in San Francisco. It was Google’s biggest event ever, with 25000 people attending. 
 
 These kinds of specific product-related conferences often end up becoming a sales pitch for the product (justifiable considering the kind of money Google likely put in to host it), so I won’t talk too much about the keynote or the individual talks. There was however an interesting theme across the conference of even greater investment into AI for Google Cloud. This is likely the one major distinguishing factor between Cloud and other similar services like AWS and Azure (which still [dominate](https://www.skyhighnetworks.com/cloud-security-blog/microsoft-azure-closes-iaas-adoption-gap-with-amazon-aws/) the market for now). Cloud has managed to grow rapidly as a result, so I thought it’d be worth walking through some of the interesting AI-specific announcements at the conference. Here are some, in no particular order.
 
